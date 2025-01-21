@@ -1,0 +1,42 @@
+
+
+
+.titulo{
+    background-color: rgb(20, 20, 19);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.titulo img{
+    width: 90px;
+}
+button{
+    display: flex;
+    margin-right: 8px;
+}
+
+h1{
+    color: rgb(243, 246, 248);
+    margin-right: 600px;
+}
+ul li a{
+    text-decoration: none;
+    margin-left: 10px;   
+}
+section{
+    margin-top: 10px;
+}
+.container{
+    margin-top: 10px;
+}
+#imagem img{
+    width: 1000px;
+    height: 600px;
+
+}
+body{
+    background-color: rgb(73, 70, 70);
+}
